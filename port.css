@@ -1,0 +1,43 @@
+body {
+    background: #98FB98;
+} /*coloração do corpo*/
+
+
+
+h1 {
+     text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;/*alinhamento do texto, seu tamanho e sua fonte*/
+}
+
+main {
+    padding: 10px;
+}/*tamanho do conteúdo*/
+
+.Portfolio{
+    text-align: center;
+   }
+
+.Portfolio2{
+     text-align: center;
+}
+
+/*centralização das divs*/
+
+
+#banner{
+    width: 90%;
+    border: 8px solid darkolivegreen;
+
+}
+
+#face{
+    width: 90%;
+    border: 8px solid darkolivegreen;
+}
+
+/*tamanho das imagens, suas margens e respectivas cores*/
